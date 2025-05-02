@@ -17,6 +17,16 @@ Welcome to **Landing Page - Gym** — a sleek, simple landing page designed for 
 - Fast loading with minimal resources
 - Mobile-friendly structure
 
+--
+
+SCREENSHORTS: 
+
+![image](https://github.com/user-attachments/assets/5fe454b8-49b2-40d7-85f8-dce618d7bd0d)
+
+
+
+
+--
 ## 🛠️ Setup Instructions
 
 To run this project locally:
