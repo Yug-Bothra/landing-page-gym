@@ -31,6 +31,10 @@ SCREENSHORTS:
 
 To run this project locally:
 
+
+
+Yug Bothra ❤️
+
 1. Clone the repository:
 
 ```bash
